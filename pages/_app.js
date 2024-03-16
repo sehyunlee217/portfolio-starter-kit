@@ -1,12 +1,13 @@
-import 'nextra-theme-blog/style.css'
-import Head from 'next/head'
+import 'nextra-theme-blog/style.css';
+import Head from 'next/head';
 
-import '../styles/main.css'
+import '../styles/main.css';
 
 export default function Nextra({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <link rel="icon" href='/favicon.ico' />
         <link
           rel="alternate"
           type="application/rss+xml"
@@ -23,5 +24,5 @@ export default function Nextra({ Component, pageProps }) {
       </Head>
       <Component {...pageProps} />
     </>
-  )
+  );
 }
