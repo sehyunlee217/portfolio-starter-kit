@@ -27,8 +27,8 @@ I even did pretty horrid on my tests in the past weeks, due to my lack of attent
 
 Now, after really thinking about what I wanted to achieve and why, I feel a lot better and I am also writing it down here so that i) I will be held credible to it but also ii) everytime I feel lost, I could come back and look at what I'm working for.
 
-Here the goals that are actually meaningful to me and why:
+Here are the goals that are actually meaningful to me and why:
 
-1. **Financial Freedom** - Spending time with people I care about is most important to me. However, in order to make the most out of the limited time that we all have, I need to reach financial freedom first.
+1. **Financial Freedom** - Spending time with people I care about is the most important to me. However, in order to make the most out of the limited time that we all have, I need to reach financial freedom first.
 2. **Expertise** - I want to get what I want by deserving what I want; the best way to take this into action is to be the very best at my field of work.
 3. **Helping Others** - I had the previlege of being able to choose my options my whole life and there are many who do not. Helping others is my responsibility.
