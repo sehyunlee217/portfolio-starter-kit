@@ -12,11 +12,9 @@ I hope to hear back from some places but with all honesty, my expectations are n
 
 Other than that, here are some progress for this week:
 
-1. The blog project section is getting completed by tommorow.
+1. I started taking data science and machine learning courses through Kaggle. First of all, it's free and it seems to have a lot of good content with a lot of practical element to it.
 
-2. I started taking data science and machine learning courses through Kaggle. First of all, it's free and it seems to have a lot of good content with a lot of practical element to it.
-
-3. I'm also trying to learn Tableau, as they also offer student licences and educational content.
+2. I'm also trying to learn Tableau, as they also offer student licences and educational content.
 
 At this point, I've read so many documentations for a wide range of tools that I feel as if I can make use of it well after reading the documentation for a little bit.
 
