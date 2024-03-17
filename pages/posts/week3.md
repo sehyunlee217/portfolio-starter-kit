@@ -3,7 +3,7 @@ title: Weekly 3
 date: 2024/1/21
 description: Updates for Week 3
 tag: life
-author: You
+author: Me
 ---
 
 I've been applying to internships lately, as of now, I've applied to 15+ internships.
