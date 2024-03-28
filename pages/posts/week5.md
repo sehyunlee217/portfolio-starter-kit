@@ -1,7 +1,7 @@
 ---
 title: Weekly 5
 date: 2024/1/29
-description: Updates for Week 5
+description: Participating in the Clarke Prize Design Challenge
 tag: life
 author: Me
 ---
