@@ -2,7 +2,7 @@
 title: Intro into Neural Networks
 date: 2024/3/31
 description: Building a MLP based of Andrej Karpathy's micrograd
-tag: ml
+tag: machine_learning
 author: Me
 ---
 
